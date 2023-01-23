@@ -1,5 +1,8 @@
 Hi 👋 My name is ilya
-=====================Frontend developer------------------* 🌍  I'm based in Minsk* 🧠  I'm learning Next.js* 🤝  I'm open to collaborating on intresting projects
+Frontend developer
+🌍  I'm based in Minsk* 
+🧠  I'm learning Next.js* 
+🤝  I'm open to collaborating on intresting projects
 
 ### Skills
 
