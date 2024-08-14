@@ -4,8 +4,8 @@ Hi 👋 My name is Ilya
 Frontend developer
 ------------------
 
-*   🌍  I'm based in Minsk
-*   🧠  I'm learning Next.js
+*   🌍  I'm based in planet Earth 
+*   🧠  I'm learning how to live
 *   🤝  I'm open to collaborating on intresting projects
 
 <p align="left">
